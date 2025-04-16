@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/zhanglingfei112/myhugopage.git'
+languageCode = 'en-us'
+title = '个人主页'
+theme = 'PaperMod'
